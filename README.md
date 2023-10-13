@@ -5,6 +5,3 @@
 - 🖤 My favorite color is black
 - 💻 My languages ​​are: HTML, CSS, JavaScript and Python
 - 🤝 How about taking a look at my repositories?
-
-![Snake animation](https://github.com/GustavoRutkowski/GustavoRutkowski/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GustavoRutkowski&repo=GustavoRutkowski&theme=react)](https://github.com/GustavoRutkowski/GustavoRutkowski)
