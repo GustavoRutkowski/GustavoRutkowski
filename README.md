@@ -6,4 +6,4 @@
 - 💻 My languages ​​are: HTML, CSS, JavaScript and Python
 - 🤝 How about taking a look at my repositories?
 
-![snake-gif](https://github.com/GustavoRutkowski/GustavoRutkowski/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/GustavoRutkowski/GustavoRutkowski/blob/output/github-contribution-grid-snake.svg)
