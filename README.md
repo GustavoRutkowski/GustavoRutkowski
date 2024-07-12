@@ -6,8 +6,8 @@
 - 🎈 I like to spend my time **gaming**, **programming**, or **playing with my cats**
 - 🖤 My favorite color is **black**
 - 🧛‍♂️ My favorite color theme is **Dracula**
-- 💻 My technologies ​​are: **HTML**, **CSS**, **SCSS**, **LESS**, **JavaScript** and **Python**
-- 📘 Learning: **TypeScript**
-- 🤝 At the moment I'm only working on private projects, I wouldn't feel comfortable making them public before they're finished
+- 💻 My technologies ​​are: **HTML**, **CSS**, **SCSS**, **LESS**, **JavaScript**, **TypeScript**, **MySQL**
+- 📘 Learning: **Node.js**
+- 🤝 At the moment I'm only working on private projects.
 
 **Thank you very much for your attention!**
