@@ -1,12 +1,9 @@
 # Gustavo Rutkowski Lara
-
-- 🧑🏻 Hello, my name is **Gustavo Rutkowski**!
 - 🌎 I am **Brazilian**
 - 🐈 I have two cats, their names are **Bart** and **Maggie**
-- 🎈 I like to spend my time **gaming**, or **playing with my cats**
+- 🎈 I spend my free time **listening to music**, **working on my own projects** or **playing with my cats**
+- 🎸 My favorite bands are **KISS** and **AC/DC**
 - 💜 My favorite color is **purple**
-- 💻 My technologies ​​are: **HTML**, **CSS**, **SCSS**, **LESS**, **JavaScript**, **TypeScript**, **MySQL**, **Node.js**
-- 📘 Learning: **Docker**
 
 ---
 
@@ -19,6 +16,11 @@
 
 ### IDE and Other Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,npm)](https://skillicons.dev)
+
+## Learning
+Some technologies I'm currently studying...
+
+[![My Skills](https://skillicons.dev/icons?i=react,docker,jest)](https://skillicons.dev)
 
 ---
 
