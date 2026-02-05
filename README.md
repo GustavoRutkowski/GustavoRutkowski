@@ -1,5 +1,7 @@
 # Gustavo Rutkowski Lara [BR 🇧🇷]
 
+![Stats](./profile/stats.svg)
+
 ## Skills
 ### Front-End & UI
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,less,sass,js,ts,webpack)](https://skillicons.dev)
