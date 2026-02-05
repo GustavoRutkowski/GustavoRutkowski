@@ -1,6 +1,9 @@
-# Gustavo Rutkowski Lara [BR 🇧🇷]
+# Gustavo Rutkowski Lara
+- 🇧🇷 Brazilian
+- 💻 Full-Stack Developer
+- 📕 Studying: React, Spring, Redis
 
-![Stats](./profile/stats.svg)
+---
 
 ## Skills
 ### Front-End & UI
@@ -15,11 +18,20 @@
 ### IDE and Other Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,vscode,codepen,github,notion,,java,python)](https://skillicons.dev)
 
-## Learning
-Some technologies I'm currently studying...
+---
 
-[![My Skills](https://skillicons.dev/icons?i=react,spring,redis)](https://skillicons.dev)
+![Stats](./profile/stats.svg)
 
 ---
+
+<div>
+  <a href="mailto:rutkowskigustavo@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/gustavo-rutkowski/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
 
 **Thank you very much for your attention!**
