@@ -1,12 +1,4 @@
-# Gustavo Rutkowski Lara
-- 🌎 I am **Brazilian**
-- 🐧 Linux User, my current distro is Pop!_OS.
-- 🐈 I have two cats, their names are **Bart** and **Maggie**
-- 🎈 I spend my free time **listening to music**, **working on my own projects** or **playing with my cats**
-- 🎸 My favorite bands are **Black Sabbath**, **KISS** and **AC/DC**
-- 💜 My favorite color is **purple**
-
----
+# Gustavo Rutkowski Lara [BR 🇧🇷]
 
 ## Skills
 ### Front-End & UI
