@@ -1,16 +1,16 @@
 # Gustavo Rutkowski Lara
 - 🇧🇷 Brazilian
 - 💻 Full-Stack Developer
-- 📕 Studying: React, Spring, Redis
+- 📕 Studying: Spring, Redis
 
 ---
 
 ## Skills
 ### Front-End & UI
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,less,sass,js,ts,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,less,sass,js,ts,react,vite,webpack)](https://skillicons.dev)
 
 ### Back-End
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,jest,ts,php,mysql,redis,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,jest,ts,php,mysql,sqlite,redis,postman)](https://skillicons.dev)
 
 ### Operating Systems and Command Line
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,bash,powershell,npm,git)](https://skillicons.dev)
