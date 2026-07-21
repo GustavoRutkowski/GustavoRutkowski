@@ -1,7 +1,7 @@
 # Gustavo Rutkowski Lara
 - 🇧🇷 Brazilian
 - 💻 Full-Stack Developer
-- 📕 Studying: Spring, Redis
+- 📕 Studying: Golang, PrismaORM
 
 ---
 
@@ -10,13 +10,13 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,less,sass,js,ts,react,vite,webpack)](https://skillicons.dev)
 
 ### Back-End
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,jest,ts,php,mysql,sqlite,redis,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,jest,ts,php,mysql,sqlite,redis,prisma,postman)](https://skillicons.dev)
 
 ### Operating Systems and Command Line
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,bash,powershell,npm,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,,bash,powershell,npm,git)](https://skillicons.dev)
 
 ### IDE and Other Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,vscode,codepen,github,notion,,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,vscode,codepen,replit,github,notion,,go,java,python)](https://skillicons.dev)
 
 ---
 
